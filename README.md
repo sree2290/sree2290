@@ -3,7 +3,7 @@ Hi 👋 My name is SRISHAILAM.CH
 DATA SCIENTIST / PROGRAMMER
 ---------------------------
 * 🌍  I'm based in INIDA
-* 🖥️  See my portfolio at [HERE](http://https://sree2290.github.io/)
+* 🖥️  See my portfolio at [HERE](http://sree2290.github.io/)
 * ✉️  You can contact me at [chsrishylamyadav143@gmail.com](mailto:chsrishylamyadav143@gmail.com)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Machine learning projects
